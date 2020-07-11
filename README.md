@@ -1,1 +1,1 @@
-# js-teachingg
+# js-teachinggg
